@@ -10,7 +10,7 @@ TKB幹課
 * chrome正式發行版本
 
 ## 如何使用？
-### 在 info\.py 填好以下資料
+### 在 info\.py填好以下資料
 #### 輸入帳號密碼
 	username = ''
     password = ''
@@ -24,5 +24,5 @@ TKB幹課
 	branch = '東海'
 #### 搶課Flag設為True
 	grabbed = True
-#### 在完美的時間執行 TKB_Scraper\.py 即可成功（吧
-#### 祝你好運！
+### 在完美的時間執行TKB_Scraper\.py即可成功（吧
+### 祝你好運！
