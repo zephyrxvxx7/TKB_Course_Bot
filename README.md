@@ -24,5 +24,5 @@ TKB幹課
 	branch = '東海'
 #### 搶課Flag設為True
 	grabbed = True
-### 在完美的時間執行 TKB_Scraper.py 即可成功（吧
+### 在完美的時間執行 TKB_Scraper.py 即可成功（吧
 ### 祝你好運！
